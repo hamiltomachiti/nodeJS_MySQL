@@ -1,0 +1,28 @@
+{
+    "name": "nodeJS_MySQL",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hamiltomachiti/nodeJS_MySQL.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hamiltomachiti/nodeJS_MySQL/issues"
+    },
+    "homepage": "https://github.com/hamiltomachiti/nodeJS_MySQL#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mysql2": "^2.3.3-rc.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.14"
+    }
+}
